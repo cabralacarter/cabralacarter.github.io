@@ -1,0 +1,653 @@
+{
+  "raspberry-pi-beginners-guide": {
+    "id": "raspberry-pi-beginners-guide",
+    "file": "officialraspberrypibeginnersguide5thedition2023.pdf",
+    "pages": 290,
+    "bytes": 31903259,
+    "original_bytes": 32385654,
+    "sha256": "94ba7078060e98ec41589a5b2214a68eb14ff33aab2c3ff81215a7e5900555b0",
+    "source_text_sha256": "87d61c36644e2924f74384da4025a43c3ca6ee9f7dbe90cb72a18ccc7dab1aa2",
+    "text_sha256": "87d61c36644e2924f74384da4025a43c3ca6ee9f7dbe90cb72a18ccc7dab1aa2",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 630,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 146,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 290,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/beginners-guide-5th-ed-buy-now"
+  },
+  "make-games-with-python": {
+    "id": "make-games-with-python",
+    "file": "makegameswithpython.pdf",
+    "pages": 167,
+    "bytes": 15675994,
+    "original_bytes": 19041774,
+    "sha256": "6bb84c6e70c60948288942d72e4f5bc18603e0cdc92cf7e6ba6526be9e0184f5",
+    "source_text_sha256": "1d85217a6dd3c009214ed5943d0eec8214224584fcedb37f11b0c9c63cbd4937",
+    "text_sha256": "1d85217a6dd3c009214ed5943d0eec8214224584fcedb37f11b0c9c63cbd4937",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 596,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 84,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 167,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/make-games-with-python-2nd-edition"
+  },
+  "conquer-the-command-line": {
+    "id": "conquer-the-command-line",
+    "file": "conquerthecommandline.pdf",
+    "pages": 128,
+    "bytes": 16279524,
+    "original_bytes": 19848122,
+    "sha256": "16f1234dd88ebdbba20c6c06aa3fdb7f6165f566f7ed76220624d37a9d7edbe7",
+    "source_text_sha256": "9257f6def542f25a29d0c82e239bb441847970e0f6d6559146a098e6de8b6870",
+    "text_sha256": "9257f6def542f25a29d0c82e239bb441847970e0f6d6559146a098e6de8b6870",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 596,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 65,
+        "mean_pixel_difference": 0.138,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 128,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/conquer-the-command-line-3rd-edition"
+  },
+  "micropython-pico": {
+    "id": "micropython-pico",
+    "file": "getstartedwithmicropythononraspberrypipico.pdf",
+    "pages": 193,
+    "bytes": 61633671,
+    "original_bytes": 61633671,
+    "sha256": "7ad1b44eba4a329b2fb90f02fb3b8f80dc3aa7cf033cf80114f267c1135d4638",
+    "source_text_sha256": "6549917d13416dd3663eab8bedade08d59533e739727318d83c98cd697f7933d",
+    "text_sha256": "6549917d13416dd3663eab8bedade08d59533e739727318d83c98cd697f7933d",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 630,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "result": "Retained original after visual comparison."
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/get-started-micropython-pico-2ed"
+  },
+  "simple-electronics-gpio-zero": {
+    "id": "simple-electronics-gpio-zero",
+    "file": "simpleelectronicswithgpiozero.pdf",
+    "pages": 132,
+    "bytes": 12339066,
+    "original_bytes": 22646087,
+    "sha256": "d3f0c24737b5386854251863f6c622eef5c1c35d5eb3329dd603e83e0620479b",
+    "source_text_sha256": "dc0afff3aa811cb819c2f82e263d4facedeaca192d420bd004ba79d46d63bbf8",
+    "text_sha256": "dc0afff3aa811cb819c2f82e263d4facedeaca192d420bd004ba79d46d63bbf8",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 596,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 67,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 132,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/simple-electronics-with-gpio-zero-2nd-edition"
+  },
+  "experiment-sense-hat": {
+    "id": "experiment-sense-hat",
+    "file": "experimentwiththesensehat.pdf",
+    "pages": 105,
+    "bytes": 9594854,
+    "original_bytes": 35045093,
+    "sha256": "f34d22f46f6ba5cc6327ae9b3a1995be794bcdf3fafd2e8c2dda95fbfd88d3cc",
+    "source_text_sha256": "042ba93613f97ad0e184e6bc064f3bfeedac57b37243ba0089887691f8d5cce9",
+    "text_sha256": "042ba93613f97ad0e184e6bc064f3bfeedac57b37243ba0089887691f8d5cce9",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 596,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 53,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 105,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/experiment-with-the-sense-hat-2nd-edition"
+  },
+  "code-classics-one": {
+    "id": "code-classics-one",
+    "file": "codetheclassicsvolumei2ndedition.pdf",
+    "pages": 241,
+    "bytes": 8861515,
+    "original_bytes": 25839584,
+    "sha256": "4e62e76a3dec3793233c5d3c9423c495e934592a4cbcd46d8dffbeda0609787f",
+    "source_text_sha256": "4d359855b226e03175f28ce7385bcbac93736d9070cd89b35881a63511782287",
+    "text_sha256": "4d359855b226e03175f28ce7385bcbac93736d9070cd89b35881a63511782287",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 564,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.049,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 121,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 241,
+        "mean_pixel_difference": 0.05,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/code-the-classics-vol-I-2ed"
+  },
+  "code-classics-two": {
+    "id": "code-classics-two",
+    "file": "codetheclassicsvolumeii.pdf",
+    "pages": 298,
+    "bytes": 38567293,
+    "original_bytes": 40294543,
+    "sha256": "7627747f332d48bfb563e706b0f578b0293a68e495220416e310638cceddb79f",
+    "source_text_sha256": "40f59c6c23a941ac9546d72ecb93f53f8ae444752e517fb2d5a986c6400bec37",
+    "text_sha256": "40f59c6c23a941ac9546d72ecb93f53f8ae444752e517fb2d5a986c6400bec37",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 581,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 150,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 298,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/code-the-classics-vol-ii"
+  },
+  "book-making-2026": {
+    "id": "book-making-2026",
+    "file": "bookofmaking2026.pdf",
+    "pages": 180,
+    "bytes": 30519046,
+    "original_bytes": 32306918,
+    "sha256": "cdaacfacb23fcf4803b4b9c16c253ce4522ef31884eb8007e96b77be3e8e9686",
+    "source_text_sha256": "77553eae96b4f6f37d4ff72f71915896dc1c7a3c562a4f4d7c6085caee7611f0",
+    "text_sha256": "77553eae96b4f6f37d4ff72f71915896dc1c7a3c562a4f4d7c6085caee7611f0",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 552,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 91,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 180,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/book-of-making-2026"
+  },
+  "book-making-2025": {
+    "id": "book-making-2025",
+    "file": "bookofmaking_2025.pdf",
+    "pages": 182,
+    "bytes": 86799565,
+    "original_bytes": 93027153,
+    "sha256": "d47c6cfc24f6731176fe946a1d1229f86ca49a5a3034140af013faf24fcfc27a",
+    "source_text_sha256": "9a27f74800e19541bd233f3b2eced4afe89fb6b196347928033b12a9471a1efc",
+    "text_sha256": "9a27f74800e19541bd233f3b2eced4afe89fb6b196347928033b12a9471a1efc",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 552,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.007,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 92,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 182,
+        "mean_pixel_difference": 0.006,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/book-of-making-2025"
+  },
+  "handbook-2026": {
+    "id": "handbook-2026",
+    "file": "officialraspberrypihandbook2026.pdf",
+    "pages": 204,
+    "bytes": 76440569,
+    "original_bytes": 82208501,
+    "sha256": "a201fc8a963c944157c54fc35dd41c2c8d616ea359676a265d1a9a94cfe2a342",
+    "source_text_sha256": "3214f37ebb616b018a7a5914f5915313a0d46d1c4dcf5393cffaad5216de9c28",
+    "text_sha256": "3214f37ebb616b018a7a5914f5915313a0d46d1c4dcf5393cffaad5216de9c28",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 552,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 103,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 204,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/official-raspberry-pi-handbook-2026"
+  },
+  "handbook-2025": {
+    "id": "handbook-2025",
+    "file": "officialraspberrypihandbook2025.pdf",
+    "pages": 204,
+    "bytes": 32294124,
+    "original_bytes": 32294124,
+    "sha256": "ed8513cd9532ffbf685b589f5ec5fcc2d8404ffb0302f1fff0e1e485aabb9a41",
+    "source_text_sha256": "87dd468558281251b048d25b25dd54316e689cfedb1805c5217eaaa93018acd4",
+    "text_sha256": "87dd468558281251b048d25b25dd54316e689cfedb1805c5217eaaa93018acd4",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 552,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 103,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 204,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/handbook-2025"
+  },
+  "handbook-2024": {
+    "id": "handbook-2024",
+    "file": "officialraspberrypihandbook2024.pdf",
+    "pages": 204,
+    "bytes": 24524030,
+    "original_bytes": 154008783,
+    "sha256": "4dff02b5cfa0661f3c0663ea8af5c6bc340140398bf9f6d37eb9952dc11ebea6",
+    "source_text_sha256": "bda4281e11f4bca87df593915dbfadd8c5d5c8266ec24cc0f0c6f273e545d7bd",
+    "text_sha256": "bda4281e11f4bca87df593915dbfadd8c5d5c8266ec24cc0f0c6f273e545d7bd",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 552,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 1.187,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.593,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 103,
+        "mean_pixel_difference": 1.212,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 204,
+        "mean_pixel_difference": 0.517,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "Publisher-provided compressed PDF of the same 2024 handbook, from raspberrypipress/released-pdfs; page count verified.",
+    "source_url": "https://raw.githubusercontent.com/raspberrypipress/released-pdfs/main/official-handbook-2024.pdf"
+  },
+  "computers-world": {
+    "id": "computers-world",
+    "file": "computersthatmadetheworld.pdf",
+    "pages": 273,
+    "bytes": 48261973,
+    "original_bytes": 48585775,
+    "sha256": "5f361a22d15da9c490dd820facd55ff869db944ff743687aeb091e0a90fd66f7",
+    "source_text_sha256": "a2f74e4d44dd7603be32c9b55c229d4cef862b2867f7d647c8f353540c87e0cb",
+    "text_sha256": "a2f74e4d44dd7603be32c9b55c229d4cef862b2867f7d647c8f353540c87e0cb",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 581,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 137,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 273,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/the-computers-that-made-the-world-1st-edition"
+  },
+  "computers-britain": {
+    "id": "computers-britain",
+    "file": "computersthatmadebritain.pdf",
+    "pages": 297,
+    "bytes": 16055485,
+    "original_bytes": 16233974,
+    "sha256": "9ab6d48d37fe1e118d0d1ad3277cfafb37afbd95418af5a641f72680c9f6553c",
+    "source_text_sha256": "92d498bc12136bb19d51735abe74a834a6234a299de29552c2fdae6a41397b16",
+    "text_sha256": "92d498bc12136bb19d51735abe74a834a6234a299de29552c2fdae6a41397b16",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 581,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 149,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 297,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/computers-that-made-britain"
+  },
+  "unplugged-tots": {
+    "id": "unplugged-tots",
+    "file": "unpluggedtots.pdf",
+    "pages": 228,
+    "bytes": 22468587,
+    "original_bytes": 24710308,
+    "sha256": "415430a0a35c92dbf4a79d4417152c46010595a0ce065ace0c52d9f76d44bb9d",
+    "source_text_sha256": "2a7e297ce52694f68c049d32fe91863f21d695f5ea095419add46fd49c22e163",
+    "text_sha256": "2a7e297ce52694f68c049d32fe91863f21d695f5ea095419add46fd49c22e163",
+    "text_matches_uploaded_original": true,
+    "cover_width": 420,
+    "cover_height": 517,
+    "license": "CC BY-NC-SA 3.0 except where otherwise noted within the publication",
+    "visual_samples": [
+      {
+        "page": 1,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 20,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 115,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      },
+      {
+        "page": 228,
+        "mean_pixel_difference": 0.0,
+        "source_warning_lines": 0,
+        "output_warning_lines": 0
+      }
+    ],
+    "changes": "PDF image compression where helpful; original retained if verification failed. Full extracted text and page count verified unchanged.",
+    "source_url": "https://magazine.raspberrypi.com/books/unplugged-tots-coding-foundations-for-children"
+  }
+}

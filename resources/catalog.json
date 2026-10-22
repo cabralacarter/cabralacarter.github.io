@@ -1,0 +1,251 @@
+[
+  {
+    "id": "raspberry-pi-beginners-guide",
+    "title": "The Official Raspberry Pi Beginner’s Guide",
+    "edition": "5th edition",
+    "author": "Gareth Halfacree",
+    "file": "officialraspberrypibeginnersguide5thedition2023.pdf",
+    "topics": [
+      "raspberry-pi",
+      "electronics"
+    ],
+    "level": "Beginner",
+    "description": "Get to know Raspberry Pi, set up your computer, and take your first steps with programming and electronic projects.",
+    "hardware": "Raspberry Pi recommended",
+    "keywords": "start setup scratch python gpio pi 5",
+    "publisher_url": "https://magazine.raspberrypi.com/books/beginners-guide-5th-ed-buy-now"
+  },
+  {
+    "id": "make-games-with-python",
+    "title": "Make Games with Python",
+    "edition": "2nd edition",
+    "author": "Sean M. Tracey",
+    "file": "makegameswithpython.pdf",
+    "topics": [
+      "coding-games"
+    ],
+    "level": "Some Python experience",
+    "description": "Turn Python code into shapes, animation, and playable games. A practical place to start exploring Pygame.",
+    "hardware": "Computer with Python",
+    "keywords": "programming pygame coding game development animation",
+    "publisher_url": "https://magazine.raspberrypi.com/books/make-games-with-python-2nd-edition"
+  },
+  {
+    "id": "conquer-the-command-line",
+    "title": "Conquer the Command Line",
+    "edition": "3rd edition",
+    "author": "Richard Smedley",
+    "file": "conquerthecommandline.pdf",
+    "topics": [
+      "linux"
+    ],
+    "level": "Beginner",
+    "description": "Build confidence in the terminal, work with files and text, and explore commands and shell scripts.",
+    "hardware": "Access to a Linux terminal",
+    "keywords": "bash shell linux cli terminal scripting networking files",
+    "publisher_url": "https://magazine.raspberrypi.com/books/conquer-the-command-line-3rd-edition"
+  },
+  {
+    "id": "micropython-pico",
+    "title": "Get Started with MicroPython on Raspberry Pi Pico",
+    "edition": "2nd edition",
+    "author": "Gareth Halfacree & Ben Everard",
+    "file": "getstartedwithmicropythononraspberrypipico.pdf",
+    "topics": [
+      "raspberry-pi",
+      "electronics"
+    ],
+    "level": "Beginner",
+    "description": "Meet the Pico microcontroller, install MicroPython, and use code to interact with electronic components. Includes Pico 2 and 2 W.",
+    "hardware": "Raspberry Pi Pico + components",
+    "keywords": "microcontroller embedded pico 2 w sensors micropython python",
+    "publisher_url": "https://magazine.raspberrypi.com/books/get-started-micropython-pico-2ed"
+  },
+  {
+    "id": "simple-electronics-gpio-zero",
+    "title": "Simple Electronics with GPIO Zero",
+    "edition": "2nd edition",
+    "author": "Phil King",
+    "file": "simpleelectronicswithgpiozero.pdf",
+    "topics": [
+      "electronics",
+      "raspberry-pi"
+    ],
+    "level": "Beginner",
+    "description": "Connect code to the physical world with LEDs, buttons, and other components using Raspberry Pi and the GPIO Zero Python library.",
+    "hardware": "Raspberry Pi + components",
+    "keywords": "circuits breadboard gpio leds buttons sensors python",
+    "publisher_url": "https://magazine.raspberrypi.com/books/simple-electronics-with-gpio-zero-2nd-edition"
+  },
+  {
+    "id": "experiment-sense-hat",
+    "title": "Experiment with the Sense HAT",
+    "edition": "2nd edition",
+    "author": "Raspberry Pi Foundation Learning Team",
+    "file": "experimentwiththesensehat.pdf",
+    "topics": [
+      "electronics",
+      "raspberry-pi"
+    ],
+    "level": "Beginner",
+    "description": "Explore the Sense HAT’s LED display, joystick, and sensors through hands-on experiments with Raspberry Pi.",
+    "hardware": "Raspberry Pi + Sense HAT",
+    "keywords": "sensors temperature humidity led matrix joystick space python",
+    "publisher_url": "https://magazine.raspberrypi.com/books/experiment-with-the-sense-hat-2nd-edition"
+  },
+  {
+    "id": "code-classics-one",
+    "title": "Code the Classics: Volume I",
+    "edition": "2nd edition",
+    "author": "Raspberry Pi Ltd. · devised by Russell Barnes",
+    "file": "codetheclassicsvolumei2ndedition.pdf",
+    "topics": [
+      "coding-games"
+    ],
+    "level": "Project-based",
+    "description": "Explore classic game design and learn from Python recreations, with explanations of the ideas and code behind the games.",
+    "hardware": "Computer with Python",
+    "keywords": "retro arcade pygame zero game development programming",
+    "publisher_url": "https://magazine.raspberrypi.com/books/code-the-classics-vol-I-2ed"
+  },
+  {
+    "id": "code-classics-two",
+    "title": "Code the Classics: Volume II",
+    "edition": "Volume II",
+    "author": "Raspberry Pi Ltd. · devised by Russell Barnes",
+    "file": "codetheclassicsvolumeii.pdf",
+    "topics": [
+      "coding-games"
+    ],
+    "level": "Project-based",
+    "description": "Continue exploring retro game design with another collection of games, development stories, and Python code to study.",
+    "hardware": "Computer with Python",
+    "keywords": "retro arcade pygame zero game development programming",
+    "publisher_url": "https://magazine.raspberrypi.com/books/code-the-classics-vol-ii"
+  },
+  {
+    "id": "book-making-2026",
+    "title": "Book of Making 2026",
+    "edition": "2026",
+    "author": "Raspberry Pi Press contributors",
+    "file": "bookofmaking2026.pdf",
+    "topics": [
+      "making",
+      "electronics"
+    ],
+    "level": "Mixed levels",
+    "description": "Find your next build among projects involving 3D printing, custom controls, LEDs, and other creative uses of technology.",
+    "hardware": "Varies by project",
+    "keywords": "maker fabrication 3d printing keyboard pico workshop diy",
+    "publisher_url": "https://magazine.raspberrypi.com/books/book-of-making-2026"
+  },
+  {
+    "id": "book-making-2025",
+    "title": "Book of Making 2025",
+    "edition": "2025",
+    "author": "Raspberry Pi Press contributors",
+    "file": "bookofmaking_2025.pdf",
+    "topics": [
+      "making",
+      "electronics"
+    ],
+    "level": "Mixed levels",
+    "description": "Browse practical maker projects, from electronic music and plant monitoring to custom cases and connected lighting.",
+    "hardware": "Varies by project",
+    "keywords": "maker fabrication 3d printing music plants lighting diy",
+    "publisher_url": "https://magazine.raspberrypi.com/books/book-of-making-2025"
+  },
+  {
+    "id": "handbook-2026",
+    "title": "The Official Raspberry Pi Handbook 2026",
+    "edition": "2026",
+    "author": "Raspberry Pi Press contributors",
+    "file": "officialraspberrypihandbook2026.pdf",
+    "topics": [
+      "raspberry-pi",
+      "making"
+    ],
+    "level": "Mixed levels",
+    "description": "Discover Raspberry Pi builds, tutorials, and project ideas, including robot explorers, cameras, and a private cloud server.",
+    "hardware": "Varies by project",
+    "keywords": "robotics cameras server pi 500 pico projects annual",
+    "publisher_url": "https://magazine.raspberrypi.com/books/official-raspberry-pi-handbook-2026"
+  },
+  {
+    "id": "handbook-2025",
+    "title": "The Official Raspberry Pi Handbook 2025",
+    "edition": "2025",
+    "author": "Raspberry Pi Press contributors",
+    "file": "officialraspberrypihandbook2025.pdf",
+    "topics": [
+      "raspberry-pi",
+      "making"
+    ],
+    "level": "Mixed levels",
+    "description": "Explore a collection of builds, guides, and equipment reviews, with projects ranging from robotics to photography.",
+    "hardware": "Varies by project",
+    "keywords": "robotics camera photography projects pico annual",
+    "publisher_url": "https://magazine.raspberrypi.com/books/handbook-2025"
+  },
+  {
+    "id": "handbook-2024",
+    "title": "The Official Raspberry Pi Handbook 2024",
+    "edition": "2024",
+    "author": "Raspberry Pi Press contributors",
+    "file": "officialraspberrypihandbook2024.pdf",
+    "topics": [
+      "raspberry-pi",
+      "making"
+    ],
+    "level": "Mixed levels",
+    "description": "Find inspiration in Raspberry Pi projects, electronics, retro gaming, and introductory robotics, with coverage of Raspberry Pi 5.",
+    "hardware": "Varies by project",
+    "keywords": "pi 5 retro gaming electronics robotics projects annual",
+    "publisher_url": "https://magazine.raspberrypi.com/books/handbook-2024"
+  },
+  {
+    "id": "computers-world",
+    "title": "The Computers That Made the World",
+    "edition": "Computer history",
+    "author": "Tim Danton",
+    "file": "computersthatmadetheworld.pdf",
+    "topics": [
+      "history"
+    ],
+    "level": "All readers",
+    "description": "Explore the machines, people, and ideas that helped shape the history of computing around the world.",
+    "hardware": "No equipment needed",
+    "keywords": "history technology pioneers retro vintage computing",
+    "publisher_url": "https://magazine.raspberrypi.com/books/the-computers-that-made-the-world-1st-edition"
+  },
+  {
+    "id": "computers-britain",
+    "title": "The Computers That Made Britain",
+    "edition": "Computer history",
+    "author": "Tim Danton",
+    "file": "computersthatmadebritain.pdf",
+    "topics": [
+      "history"
+    ],
+    "level": "All readers",
+    "description": "Take a closer look at Britain’s home computer revolution and the machines that introduced a generation to computing.",
+    "hardware": "No equipment needed",
+    "keywords": "history technology 1980s retro vintage home computer",
+    "publisher_url": "https://magazine.raspberrypi.com/books/computers-that-made-britain"
+  },
+  {
+    "id": "unplugged-tots",
+    "title": "Unplugged Tots",
+    "edition": "Teaching & outreach",
+    "author": "Hannah Hagon",
+    "file": "unpluggedtots.pdf",
+    "topics": [
+      "teaching"
+    ],
+    "level": "No coding background needed",
+    "description": "Introduce young children to computing ideas through screen-free play. Useful for parents, educators, and students planning outreach activities.",
+    "hardware": "Screen-free activities",
+    "keywords": "education children parents teaching outreach screen free unplugged",
+    "publisher_url": "https://magazine.raspberrypi.com/books/unplugged-tots-coding-foundations-for-children"
+  }
+]
