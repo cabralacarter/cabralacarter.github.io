@@ -328,3 +328,10 @@ html { scroll-behavior: auto; }
     .help-panel { background: white; color: black; }
     .help-panel p, .help-location { color: #333; }
 }
+
+.book-cover {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: contain;
+}
