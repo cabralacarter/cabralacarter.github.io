@@ -2,6 +2,41 @@
 
 Static GitHub Pages portfolio for **cartercabral.com**.
 
+## Project pages
+
+Each homepage project card now opens a separate, editable write-up:
+
+| Page | File |
+| --- | --- |
+| Cybersecurity Project | `projects/cybersecurity.html` |
+| Managing a Computer Lab | `projects/computer-lab.html` |
+| Raspberry Pi Arcade | `projects/raspberry-pi-arcade.html` |
+| Blank template for future projects | `projects/template.html` |
+
+The pages are plain HTML; they do not need a build command. Their shared
+layout is in `projects/projects.css`, with the main site theme in `styles.css`.
+
+### Filling out a project
+
+1. Open the project's HTML file. Search for `EDIT:` comments and replace the
+   bracketed placeholder text with your title, summary, role, timeline,
+   overview, process, results, and tools.
+2. Put photos or screenshots in `projects/images/`. Replace each
+   `src="images/project-placeholder.svg"` with your image path, for example
+   `src="images/arcade-build.jpg"`. Update the image's `alt` text and caption.
+3. For a homepage thumbnail, update that card's image in root `index.html`.
+   Its path starts from the homepage, for example
+   `src="projects/images/arcade-build.jpg"`.
+4. Replace the homepage card's `Project details coming soon.` text with a
+   short description, and update the write-up status when the page is ready.
+
+To add a future project, copy `projects/template.html` to a descriptive
+filename in the same `projects/` folder, fill it out, and copy an existing
+homepage card with its link pointing to the new page. Update the next-project
+link at the bottom of the copied page as needed.
+
+The default SVG is an image placeholder, not a screenshot of completed work.
+
 ## Student resources
 
 The student collection is a separate page at **/resources/**, linked from the

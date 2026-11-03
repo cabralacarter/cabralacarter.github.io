@@ -286,3 +286,37 @@ footer {
         padding-top: 24px;
     }
 }
+
+/* Project card previews */
+
+.project-card.with-preview {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 0;
+}
+
+.project-preview {
+    aspect-ratio: 8 / 5;
+    border-bottom: 1px solid #30363d;
+    background: #111923;
+}
+
+.project-preview img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.project-card-body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.project-card-body > a {
+    margin-top: auto;
+    padding-top: 20px;
+}
