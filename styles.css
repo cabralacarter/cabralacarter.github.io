@@ -205,6 +205,10 @@ nav {
     font-size: .9rem;
 }
 
+.skills li:hover {
+    border-color: #58a6ff;
+}
+
 
 /* Contact */
 
