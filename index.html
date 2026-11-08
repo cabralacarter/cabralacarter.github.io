@@ -1,205 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Carter Cabral | Portfolio</title>
-
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
-
-    <header>
-        <nav class="container">
-            <a class="logo" href="#">Carter Cabral</a>
-
-            <div class="nav-links">
-                <a href="#about">About</a>
-                <a href="#projects">Projects</a>
-                <a href="#skills">Skills</a>
-                <a href="#contact">Contact</a>
-                <a class="student-resources-link" href="resources/">Student Resources</a>
-            </div>
-        </nav>
-    </header>
-
-
-    <main>
-
-        <section class="hero container">
-            <p class="eyebrow">IT • Cybersecurity • Networking • Managing</p>
-
-            <h1>Hello, I'm Carter.</h1>
-
-            <p class="hero-description">
-                I'm building my experience in information technology,
-                cybersecurity, networking, and all things IoT.
-                This site is a collection of my projects, skills,
-                certifications, and professional development.
-            </p>
-
-            <div class="hero-buttons">
-                <a class="button primary" href="#projects">View My Projects</a>
-                <a class="button secondary" href="#" target="_blank">View Résumé</a>
-                 <!-- Upload your certificates PDF as resources/pdf/certificates.pdf, or update this href. -->
-                <a class="button secondary" href="resources/pdf/certificates.pdf" download>View Certificates</a>
-                <a class="button secondary student-resource-cta" href="resources/">Student Resources</a>
-            </div>
-        </section>
-
-
-        <section id="about" class="section">
-            <div class="container">
-
-                <h2>About Me</h2>
-
-                <p>
-                    I'm interested in technology, cybersecurity, networking,
-                    automation, and solving technical problems. This portfolio
-                    gives me a place to document projects and experiences that
-                    don't always fit onto a traditional résumé. This is a test from home
-                </p>
-
-            </div>
-        </section>
-
-
-        <section id="projects" class="section">
-            <div class="container">
-
-                <h2>Projects</h2>
-
-                <div class="project-grid">
-
-                    <article class="project-card with-preview">
-                        <!-- Replace this image src with your own project photo or screenshot. -->
-                        <div class="project-preview" aria-hidden="true">
-                            <img src="projects/images/project-placeholder.svg" alt="" width="1600" height="1000" loading="lazy">
-                        </div>
-                        <div class="project-card-body">
-                            <p class="project-type">Cybersecurity</p>
-                            <h3>Cybersecurity Project</h3>
-                            <p>Project details coming soon.</p>
-                            <a href="projects/cybersecurity.html" aria-label="View Cybersecurity Project">View Project →</a>
-                        </div>
-                    </article>
-
-                    <article class="project-card with-preview">
-                        <!-- Replace this image src with your own project photo or screenshot. -->
-                        <div class="project-preview" aria-hidden="true">
-                            <img src="projects/images/project-placeholder.svg" alt="" width="1600" height="1000" loading="lazy">
-                        </div>
-                        <div class="project-card-body">
-                            <p class="project-type">Networking / Leadership</p>
-                            <h3>Managing a Computer Lab</h3>
-                            <p>Project details coming soon.</p>
-                            <a href="projects/computer-lab.html" aria-label="View Managing a Computer Lab">View Project →</a>
-                        </div>
-                    </article>
-
-                    <article class="project-card with-preview">
-                        <!-- Replace this image src with your own project photo or screenshot. -->
-                        <div class="project-preview" aria-hidden="true">
-                            <img src="projects/images/project-placeholder.svg" alt="" width="1600" height="1000" loading="lazy">
-                        </div>
-                        <div class="project-card-body">
-                            <p class="project-type">IoT</p>
-                            <h3>Building an Arcade Machine with Raspberry Pi</h3>
-                            <p>Using a Raspberry Pi and Raspberry Pi OS to build a fully functional arcade machine.</p>
-                            <a href="projects/raspberry-pi-arcade.html" aria-label="View Building an Arcade Machine with Raspberry Pi">View Project →</a>
-                        </div>
-                    </article>
-
-                </div>
-
-            </div>
-        </section>
-
-
-        <section id="skills" class="section">
-            <div class="container">
-
-                <h2>Skills, Technologies, and Certifications</h2>
-                <p>Ctrl + F to find relevant skills</p>
-
-                  <div class="skills-grid">
-                    <div class="skill-group">
-                        <h3>Operating Systems / Firmware</h3>
-                        <ul class="skills">
-                            <li>Windows</li>
-                            <li>Linux</li>
-                            <li>Android OS</li>
-                            <li>Raspberry Pi OS</li>
-                            <li>MacOS</li>
-                        </ul>
-                    </div>
-
-                    <div class="skill-group">
-                        <h3>Cybersecurity</h3>
-                        <ul class="skills">
-                            <li>Cybersecurity</li>
-                            <li>Cybersecurity Tools & Hardware</li>
-                            <li>T-Dongle</li>
-                            <li>Halehound</li>
-                            <li>SOC Experience</li>
-                        </ul>
-                    </div>
-
-                    <div class="skill-group">
-                        <h3>Networking &amp; IoT</h3>
-                        <ul class="skills">
-                            <li>Networking</li>
-                            <li>Raspberry Pi</li>
-                            <li>3D printing</li>
-                            <li>Laser Cutting</li>
-                            <li>Robotic Arms</li>
-                            <li>Android Gaming Tables</li>
-                            <li>Data Center Experience</li>
-                        </ul>
-                    </div>
-
-                    <div class="skill-group">
-                        <h3>Leadership</h3>
-                        <ul class="skills">
-                            <li>Managerial Work</li>
-                            <li>Managing of Cyber Lab</li>
-                            <li>Managing of Peer Mentor student workers</li>
-                            <li>Inventory Management</li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </section>
-
-
-        <section id="contact" class="section">
-            <div class="container">
-
-                <h2>Contact</h2>
-
-                <p>
-                    Interested in my work or want to get in touch?
-                </p>
-
-                <div class="contact-links">
-                    <a href="https://www.linkedin.com/in/carter-cabral-80427b279">LinkedIn</a>
-                    <a href="#">Email</a>
-                </div>
-
-            </div>
-        </section>
-
-    </main>
-
-
-    <footer>
-        <div class="container">
-            <p>© 2026 Carter Cabral</p>
-        </div>
-    </footer>
-
-</body>
-</html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Cybersecurity, lab operations, robotics, networking, and technical projects by Carter Cabral."><title>Portfolio | Carter Cabral</title>
+<link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="portfolio-enhancements.css">
+</head><body><header><nav class="container" aria-label="Main navigation">
+<a class="logo" href="#">Carter Cabral</a>
+<div class="nav-links"><a href="#about">About</a><a href="#experience">Experience</a><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#contact">Contact</a><a class="student-resources-link" href="resources/">Student Resources</a></div>
+</nav></header><main>
+<section class="hero container">
+<p class="eyebrow">IT • Cybersecurity • Networking • Technical Operations</p>
+<h1>Hello, I'm Carter.</h1>
+<p class="hero-description">I work across cybersecurity, technical lab operations, networking, robotics, and practical automation. Here you can explore the equipment I support, the projects I build, and how I help people use technology.</p>
+<div class="hero-buttons"><a class="button primary" href="#projects">View My Projects</a>
+<a class="button secondary" href="#" title="Résumé PDF link to be added after choosing what contact details to publish">View Résumé</a>
+<a class="button secondary" href="resources/pdf/certificates.pdf" download>View Certificates</a>
+<a class="button secondary student-resource-cta" href="resources/">Student Resources</a></div>
+</section>
+<section id="about" class="section"><div class="container"><h2>About Me</h2>
+<p>I am a cybersecurity graduate and CompTIA Security+ certified professional with experience in a live security operations center and in student-facing technical labs. I enjoy deploying systems, building clear documentation, making equipment safer to use, and improving access to technical resources.</p>
+<p class="section-support">My portfolio covers hands-on work with security tools, Raspberry Pis, automation, classroom robotics, 3D printing, and websites.</p></div></section>
+<section id="experience" class="section"><div class="container"><h2>Experience &amp; Leadership</h2>
+<div class="experience-card-grid">
+<article class="experience-card"><p class="project-type">Jul 2026 – Present</p><h3>Academic Lab Technician (Cybersecurity)</h3><p class="experience-company">St. Philip's College</p><p>Manage an eight-PC lab, support students and peer mentors, maintain devices, create documentation and safety procedures, and teach a wide range of technical hardware.</p></article>
+<article class="experience-card"><p class="project-type">May 2026 – Jul 2026</p><h3>Security Operations Center</h3><p class="experience-company">University of Texas at San Antonio</p><p>Monitored live alerts and network activity, developed security analysis experience, and learned from an operational SOC environment.</p></article>
+<article class="experience-card"><p class="project-type">2022 – 2026</p><h3>Operations &amp; Mentorship</h3><p class="experience-company">Whole Foods Market</p><p>Recognized for strong performance, supported daily operations, and trained new teammates. I also serve on a college-wide committee and volunteer for IT support projects.</p></article>
+</div><p class="experience-cta"><a class="button secondary" href="experience.html">Explore Detailed Technical Experience →</a></p></div></section>
+<section id="projects" class="section"><div class="container"><h2>Projects</h2>
+<p class="section-support">A selection of professional and personal projects, with technical details and responsibilities on each page.</p>
+<div class="project-grid"><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>SOC / NETWORKS</span></div>
+<div class="project-card-body"><p class="project-type">Security operations</p><h3>SOC &amp; Security Operations</h3><p>Live alert monitoring, network analysis experience, and exposure to SOC and data center environments.</p><a href="projects/cybersecurity.html" aria-label="Read about SOC &amp; Security Operations">Read more →</a></div>
+</article><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>LAB / LEADERSHIP</span></div>
+<div class="project-card-body"><p class="project-type">Technical leadership</p><h3>Managing a Computer Lab</h3><p>Supporting eight gaming PCs, student workers, inventory, device deployment, and training.</p><a href="projects/computer-lab.html" aria-label="Read about Managing a Computer Lab">Read more →</a></div>
+</article><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>PI / LINUX</span></div>
+<div class="project-card-body"><p class="project-type">Raspberry Pi / IoT</p><h3>Raspberry Pi Arcade</h3><p>A Raspberry Pi arcade-computer build and related Raspberry Pi deployments.</p><a href="projects/raspberry-pi-arcade.html" aria-label="Read about Raspberry Pi Arcade">Read more →</a></div>
+</article><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>ROBOTS / AI</span></div>
+<div class="project-card-body"><p class="project-type">Robotics / AI</p><h3>Robotics &amp; Locally Hosted AI</h3><p>SO-ARM101 robotic arms, Sphero robots, demonstrations, and locally hosted AI exploration.</p><a href="experience.html#robotics" aria-label="Read about Robotics &amp; Locally Hosted AI">Read more →</a></div>
+</article><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>FORMS / APPS</span></div>
+<div class="project-card-body"><p class="project-type">Automation / Web</p><h3>Tiger Den Kiosk &amp; Websites</h3><p>Student check-in and resource requests with automation, plus HTML-based websites.</p><a href="experience.html#automation" aria-label="Read about Tiger Den Kiosk &amp; Websites">Read more →</a></div>
+</article><article class="project-card with-preview">
+<div class="project-preview project-preview--text" aria-hidden="true"><span>MAKER / SAFETY</span></div>
+<div class="project-card-body"><p class="project-type">Fabrication / Training</p><h3>Fabrication &amp; Equipment Safety</h3><p>xTool laser, 3D printing, Blender, training, and student-facing safety guidance.</p><a href="experience.html#fabrication" aria-label="Read about Fabrication &amp; Equipment Safety">Read more →</a></div>
+</article></div></div></section>
+<section id="skills" class="section"><div class="container"><h2>Skills, Technologies, and Certifications</h2>
+<p class="section-support">Use Ctrl + F (or your browser's Find option) to locate a skill. The complete context is in my <a href="experience.html">technical experience write-up</a>.</p>
+<div class="skills-grid"><div class="skill-group"><h3>Operating systems &amp; devices</h3><ul class="skills"><li>Windows</li><li>Linux</li><li>macOS</li><li>Android OS</li><li>iOS / iPadOS</li><li>Raspberry Pi OS</li><li>Mobile device management</li><li>Device imaging</li></ul></div><div class="skill-group"><h3>Cybersecurity &amp; SOC</h3><ul class="skills"><li>SOC monitoring</li><li>Wireshark</li><li>Splunk</li><li>Microsoft Defender</li><li>Cortex XDR</li><li>ExtraHop</li><li>Armis</li><li>Abnormal AI</li><li>T-Dongle</li><li>Halehound</li><li>NIST CSF</li></ul></div><div class="skill-group"><h3>Networking &amp; infrastructure</h3><ul class="skills"><li>Cisco Packet Tracer</li><li>VLAN setup (training)</li><li>Wireless access points (training)</li><li>Active Directory</li><li>Infoblox</li><li>Duo Admin</li><li>VMware / VirtualBox</li><li>Data center exposure</li><li>Docker Desktop</li><li>WSL</li><li>Pi-hole</li><li>Lucidchart</li></ul></div><div class="skill-group"><h3>Automation &amp; development</h3><ul class="skills"><li>HTML / CSS</li><li>Python</li><li>JavaScript</li><li>Bash</li><li>Microsoft Forms</li><li>Google Forms</li><li>Power Apps</li><li>Power Automate</li><li>Microsoft Lists</li><li>GitHub</li></ul></div><div class="skill-group"><h3>Robotics, XR &amp; IoT</h3><ul class="skills"><li>Hiwonder SO-ARM101</li><li>Locally hosted AI</li><li>Sphero RVR</li><li>Sphero BOLT+</li><li>Meta Quest 3</li><li>Raspberry Pi</li><li>Network TV signage</li><li>Android gaming tables</li></ul></div><div class="skill-group"><h3>Fabrication &amp; design</h3><ul class="skills"><li>xTool P3 CO2 laser</li><li>3D printers</li><li>Blender 3D</li><li>Laser cutting</li><li>3D fabrication</li><li>Drone building</li><li>Soldering</li></ul></div><div class="skill-group"><h3>Technical operations</h3><ul class="skills"><li>Lab management</li><li>Hardware deployment</li><li>Software imaging guides</li><li>Equipment inventory</li><li>Excel</li><li>ServiceNow</li><li>Safety procedures</li><li>Training documentation</li></ul></div><div class="skill-group"><h3>Leadership &amp; instruction</h3><ul class="skills"><li>Peer mentor coordination</li><li>Student support</li><li>Technical demonstrations</li><li>Equipment training</li><li>College-wide committee</li><li>CompTIA Security+</li></ul></div></div></div></section>
+<section id="contact" class="section"><div class="container"><h2>Contact</h2><p>Interested in my work or want to get in touch?</p><div class="contact-links"><a href="https://www.linkedin.com/in/carter-cabral-80427b279">LinkedIn</a><a href="#">Email</a></div></div></section>
+</main><footer><div class="container"><p>© 2026 Carter Cabral</p></div></footer></body></html>
